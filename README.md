@@ -25,4 +25,4 @@ X Education aims to boost its lead conversion rate to 80%, and a robust lead-sco
 For any questions or issues, feel free to open an issue on the repository.
 
 ### Who Maintains and Contributes to the Project?
-The project is maintained and contributed to by the X Education team. Community contributions are welcome through pull requests.
+The project is maintained and contributed to by the me (Owner of this repo). Community contributions are welcome through pull requests.
